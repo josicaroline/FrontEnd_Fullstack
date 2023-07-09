@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html,
+  body {
+    height: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:slategrey;
+  }
+
+  ul{
+    text-align: justify;
+  }
+    
+  p{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+  }

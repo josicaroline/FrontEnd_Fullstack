@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html,
+  body {
+    height: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #404258;
+  }
+
+  .profile_box {
+    padding: 10px;
+    max-width: 350px;
+    background-color: lightslategray;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  p{
+    font-family: 'Oswald', sans-serif;
+    text-align: justify;
+  }
+  
+  #profile_img {
+    border-radius: 100px;
+    width: 120px;
+  }

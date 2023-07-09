@@ -1,0 +1,152 @@
+
+* {
+  color: #464646;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+  display: flex;
+  background-color: rgb(216, 216, 216);
+}
+
+.curriculum {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px auto 10px auto;
+  width: 595px;
+  height: 842px;
+  background-color: white;
+  box-shadow: 8px 8px 8px #c5c5c5;
+  border-radius: 15px;
+}
+
+article {
+  width: 310px;
+  height: 122px;
+  margin-top: 22px;
+}
+
+img {
+  display: flex;
+  margin: 10px 0px;
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px #c5c5c5;
+}
+
+.section1 {
+  display: flex;
+  justify-content: left;
+  width: 550px;
+  height: 842px;
+  margin-left: 35px;
+  background-color: white;
+}
+
+.section2 {
+  display: flex;
+  justify-content: left;
+  width: 240px;
+  text-align: left;
+}
+
+h1 {
+  font-size: 18px;
+  margin-top: 22px;
+  margin-bottom: -5px;
+  margin-left: 70px;
+  padding-bottom: 0px;
+  background-color: white;
+}
+
+.dev {
+  font-size: 12px;
+  margin-left: 70px;
+  padding-top: 0px;
+}
+
+.description {
+  width: 360px;
+  height: 56px;
+  margin-top: 25px;
+  text-align: justify;
+  font-size: 10px;
+  line-height: 11.5px;
+}
+
+.experience {
+  width: 360px;
+  height: 406px;
+  margin-top: -15px;
+  padding-top: 13px;
+}
+
+.location {
+  font-size: 10px;
+  margin-top: -10px;
+  margin-bottom: -3px;
+}
+
+.time {
+  font-size: 9px;
+  font-style: normal;
+  margin-top: 2px;
+  color: #8f8f8f;
+}
+
+.work {
+  font-size: 10px;
+  text-align: justify;
+  line-height: 11.5px;
+  margin-top: 4px;
+}
+
+.education {
+  margin-top: -220px;
+  width: 360px;
+  padding-top: 13px;
+}
+
+h4 {
+  font-size: 15px;
+}
+
+.contact {
+  border-left: 2px dashed rgb(189, 189, 189);
+  padding-left: 15px;
+  padding-top: 20px;
+  display: flexbox;
+  justify-content: center;
+}
+
+.ref1 {
+  padding-left: 0px;
+  font-size: 11px;
+  
+}
+
+.language {
+  font-size: 15px;
+  margin-bottom: 5px;
+  margin-top: 30px;
+}
+
+.ref2 {
+  font-size: 11px;
+}
+
+main{
+  display: flex;
+}
+
+.mainskill {
+  font-size: 15px;
+  margin-bottom: 5px;
+  margin-top: 30px;
+}
+
+.ref3 {
+  font-size: 11px;
+}
