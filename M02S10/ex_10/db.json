@@ -1,0 +1,84 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Título da notícia 1",
+      "categoria": "esportes",
+      "autor": "Autor 1",
+      "imagem": {
+        "src": "",
+        "alt": "Imagem 1"
+      },
+      "data": "2023-07-03",
+      "content": "<p>Conteúdo da notícia 1.</p>"
+    },
+    {
+      "id": 2,
+      "titulo": "Título da notícia 2",
+      "categoria": "noticias",
+      "autor": "Autor 2",
+      "imagem": {
+        "src": "",
+        "alt": "Imagem 2"
+      },
+      "data": "2023-07-02",
+      "content": "<p>Conteúdo da notícia 2.</p>"
+    },
+    {
+      "id": 3,
+      "titulo": "Título da notícia 3",
+      "categoria": "entretenimento",
+      "autor": "Autor 3",
+      "imagem": {
+        "src": "",
+        "alt": "Imagem 3"
+      },
+      "data": "2023-07-01",
+      "content": "<p>Conteúdo da notícia 3.</p>"
+    },
+    {
+      "id": 4,
+      "titulo": "Título da notícia 4",
+      "categoria": "esportes",
+      "autor": "Autor 4",
+      "imagem": {
+        "src": "",
+        "alt": "Imagem 4"
+      },
+      "data": "2023-07-04",
+      "content": "<p>Conteúdo da notícia 4.</p>"
+    },
+    {
+      "id": 5,
+      "titulo": "Título da notícia 5",
+      "categoria": "noticias",
+      "autor": "Autor 5",
+      "imagem": {
+        "src": "",
+        "alt": "Imagem 5"
+      },
+      "data": "2023-07-05",
+      "content": "<p>Conteúdo da notícia 5.</p>"
+    },
+    {
+      "id": 6,
+      "titulo": "Título da notícia 6",
+      "categoria": "entretenimento",
+      "autor": "Autor 6",
+      "imagem": {
+        "src": "",
+        "alt": "Imagem 6"
+      },
+      "data": "2023-07-06",
+      "content": "<p>Conteúdo da notícia 6.</p>"
+    }
+  ],
+
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "josi@gmail.com",
+      "password": "12345678"
+    }
+  ]
+}
